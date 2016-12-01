@@ -1,5 +1,7 @@
 # Sample repository
 ----
+git: Committed for life
+
 We'll be using this repository to practice using Git and GitHub.
 
 Process:
