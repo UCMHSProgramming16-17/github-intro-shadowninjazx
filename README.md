@@ -1,6 +1,6 @@
-# Sample repository
+# Sample repository with Joke
 ----
-git: Committed for life
+**git: Committed for life**
 
 We'll be using this repository to practice using Git and GitHub.
 
