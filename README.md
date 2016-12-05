@@ -11,3 +11,5 @@ Process:
 3. Push your changes.
 4. Modify the repository online.
 5. Pull your changes.
+
+to be deleted
