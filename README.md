@@ -2,6 +2,8 @@
 ----
 **git: Committed for life**
 
+**This is a new branch**
+
 We'll be using this repository to practice using Git and GitHub.
 
 Process:
